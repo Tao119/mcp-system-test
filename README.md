@@ -15,7 +15,6 @@ Python と TypeScript における MCP クライアントとサーバーの比�
 
 - `get_epoch_time` - 現在の UNIX エポック時間（秒）を取得
 - `count_characters` - テキスト内の文字数をカウント
-- `get_weather` - 指定した場所の天気情報を取得（モック実装）
 
 ## 使い方
 
