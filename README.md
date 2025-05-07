@@ -19,6 +19,8 @@ Python と TypeScript における MCP クライアントとサーバーの比�
 
 ## 使い方
 
+.env を作成して ANTHROPIC_API_KEY を入力してください
+
 ### クイックスタート
 
 ```bash
