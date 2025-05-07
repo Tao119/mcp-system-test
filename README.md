@@ -1,4 +1,4 @@
-# MCP System テスト
+# MCP test
 
 Python と TypeScript における MCP クライアントとサーバーの比較実装
 
