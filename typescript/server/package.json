@@ -1,0 +1,19 @@
+{
+  "name": "mcp-typescript-implementation",
+  "version": "1.0.0",
+  "description": "Customizable MCP server and client implementation using TypeScript",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start:server": "node dist/mcp-server.js",
+    "start:client": "node dist/mcp-client.js",
+    "dev:server": "ts-node --esm src/mcp-server.ts",
+    "dev:client": "ts-node --esm src/mcp-client.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.1",
+    "@modelcontextprotocol/sdk": "^1.11.0",
+    "dotenv": "^16.5.0",
+    "typescript": "^5.8.3"
+  }
+}
